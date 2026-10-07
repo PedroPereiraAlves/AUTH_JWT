@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Local secret material. Signing keys belong in user-secrets or the environment.
+secrets.json
+appsettings.*.local.json
